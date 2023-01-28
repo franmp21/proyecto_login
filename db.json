@@ -1,0 +1,28 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "username": "franmp",
+      "password": "30092001",
+      "level": "student"
+    },
+    {
+      "usernamename": "lauuvd",
+      "password": "laura1903",
+      "level": "student",
+      "id": 2
+    },
+    {
+      "usernamename": "franelloco25",
+      "password": "30092001",
+      "level": "stupid",
+      "id": 3
+    },
+    {
+      "usernamename": "elena",
+      "password": "elena28",
+      "level": "a",
+      "id": 4
+    }
+  ]
+}
